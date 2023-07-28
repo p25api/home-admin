@@ -1,0 +1,42 @@
+{
+  "modules": [
+    {
+      "group_id": 1,
+      "group_name": "Group 01",
+      "items": [
+        {
+          "id": 1,
+          "name": "Namespace manager",
+          "description": "Uncovering irregularities unveiling hidden insights",
+          "image_url": "",
+          "tooltip": "",
+          "active": 1
+        },
+        {
+          "id": 2,
+          "name": "Action 1",
+          "description": "Energise and empower igniting change for a brighter future",
+          "image_url": "",
+           "tooltip": "You can locate Action 1 from the source where it gets created on topology map. More functions to be added here very soon.",
+          "active": 0
+        },
+        {
+          "id": 3,
+          "name": "Action 2",
+          "description": "Unearthing wonders unleash the power of discovery",
+          "image_url": "",
+           "tooltip": "You can locate Action 2 from the source where it gets created on topology map. More functions to be added here very soon.",
+          "active": 0
+        },
+        {
+          "id": 4,
+          "name": "Action 3",
+          "description": "Uncovering irregularities unveiling hidden insights",
+          "image_url": "",
+           "tooltip": "You can locate Action 3 from the source where it gets created on topology map. More functions to be added here very soon.",
+          "active": 0
+        }
+      ]
+    }
+  ]
+}
